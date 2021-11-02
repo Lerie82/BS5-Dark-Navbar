@@ -1,2 +1,4 @@
-# BS5-Dark-Navbar
-Bootstrap 5 Dark Navbar
+# BS5 Dark Navbar
+A Free Bootstrap 5 Dark Navbar
+
+Lerie Taylor - www.lerietaylor.com
